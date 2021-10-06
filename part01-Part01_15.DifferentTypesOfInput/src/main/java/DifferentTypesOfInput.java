@@ -19,6 +19,5 @@ public class DifferentTypesOfInput {
         System.out.println("You gave the integer "+intHere);
         System.out.println("You gave the double "+doubleHere);
         System.out.println("You gave the boolean "+booleanHere);
-
     }
 }
