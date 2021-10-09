@@ -8,10 +8,18 @@ public class AdditionFormula {
 
         // write your program here
         System.out.println("Give the first number:");
+        System.out.println("Give the first number:");
+        System.out.println("Give the first number:");
         int first = scanner.nextInt();
+
+        System.out.println("Give the second number:");
+        System.out.println("Give the second number:");
         System.out.println("Give the second number:");
         int second = scanner.nextInt();
-        System.out.println(first+" + "+second+" = "+(first+second));
+
+        System.out.println(first + " + " + second + " = " + (first + second));
+
+        // reading comment in VSC
 
     }
 }
